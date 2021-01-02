@@ -25,6 +25,8 @@ Define Database for each service
 
 #### Step 4: start the server
 
+This will start both service at the same time
+
 ```bash
 npm start
 ```
@@ -33,3 +35,4 @@ npm start
 
 1. User service currently runs on port 5000 - http://localhost:5000/api/users
 2. Todo service currently runs on port 3000 - http://localhost:3000/api/todo
+3. Express gateway is used to bootstrap the service
