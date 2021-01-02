@@ -15,6 +15,8 @@ cd buddy-todo-api
 ```bash
 npm i
 ```
+1. cd into /buddy-todo-api/todo and run npm install
+2. cd into /buddy-todo-api/users and run npm install
 
 #### Step 3: define the database connection
 
